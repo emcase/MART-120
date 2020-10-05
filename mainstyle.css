@@ -1,0 +1,33 @@
+   body{
+        background-color: rgb(179, 188, 197);
+    }
+   ul {    
+    color: blueviolet;
+}
+
+.p{
+    color:orangered;
+    font-size:larger;
+}
+
+.h1{
+    text-align: center;
+    font-size: x-large;
+}
+
+#specificlink{
+    color:purple;
+    font-size:larger;
+    font-style: oblique;
+}
+
+.page2{
+    background-image: url("whiteglitter.jpg");
+}
+  
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
