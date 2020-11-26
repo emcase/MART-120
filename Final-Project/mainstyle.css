@@ -1,0 +1,48 @@
+   body{
+        background-color: lightblue;
+        border: black; width: 1200;
+        text-align: left;
+    }
+   ul {    
+    color: black;
+    text-align: left;
+}
+
+.p{
+    color:rgb(40, 54, 92);
+    font-size:large;
+    font: Verdana;
+    text-align: left;
+}
+
+.h1{
+    text-align: left;
+    font-size: large;
+    font: Verdana
+}
+.h2{
+    text-align: left;
+    font-size: large;
+    font: Verdana
+}
+.h3{
+    text-align: left;
+    font-size: large;
+    font: Verdana
+}
+
+#specificlink{
+    color:black;
+    font-size:large;
+    font-style: normal;
+    font: Verdana;
+    text-align: left;
+}
+
+  
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
